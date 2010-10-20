@@ -1,0 +1,2 @@
+cd /Applications/nGRTool/solver
+/Applications/nGRTool/solver/goalsolve -n /Applications/nGRTool/solver/sot-mtg-sched.goal.txt /Applications/nGRTool/solver/sot-mtg-sched.goal.txt.des /Applications/nGRTool/solver/sot-mtg-sched.goal.txt.in
