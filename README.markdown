@@ -1,5 +1,3 @@
-Contains source code for paper presented at ER2010 by Ernst, Borgida, Mylopoulos, Jureta.
-
 Contains source code for paper presented at ER2010 by Ernst, Borgida, Mylopoulos, Jureta.                                    
                                                                                                                              
 Files:                                                                                                                       
