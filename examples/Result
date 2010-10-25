@@ -1,0 +1,211 @@
+TS 0 ;         
+PS 1 ; PD 1 ; INPUT
+PS 2 ; PD 2 ; INPUT
+PS 3 ;         INPUT
+PS 4 ; PD 4 ; INPUT
+PS 5 ; PD 5 ; INPUT
+PS 6 ; PD 6 ; INPUT
+PS 7 ; PD 7 ; INPUT
+PS 8 ; PD 8 ; INPUT
+PS 9 ; PD 9 ; 
+PS 10 ; PD 10 ; INPUT
+PS 11 ; PD 11 ; 
+PS 12 ; PD 12 ; INPUT
+PS 13 ; PD 13 ; INPUT
+        TD 14 ; INPUT
+        TD 15 ; 
+PS 16 ; PD 16 ; INPUT
+PS 17 ; PD 17 ; 
+        TD 18 ; 
+        PD 19 ; INPUT
+        PD 20 ; 
+PS 21 ; PD 21 ; INPUT
+PS 22 ; PD 22 ; 
+PS 23 ; PD 23 ; INPUT
+PS 24 ; PD 24 ; INPUT
+        TD 25 ; INPUT
+        TD 26 ; 
+        TD 27 ; 
+PS 28 ; PD 28 ; INPUT
+        PD 29 ; INPUT
+        PD 30 ; 
+PS 31 ; PD 31 ; INPUT
+PS 32 ; PD 32 ; INPUT
+        TD 33 ; INPUT
+        TD 34 ; 
+        PD 35 ; INPUT
+PS 36 ; PD 36 ; INPUT
+        PD 37 ; 
+PS 38 ; PD 38 ; INPUT
+PS 39 ; PD 39 ; 
+        TD 40 ; 
+PS 41 ; PD 41 ; INPUT
+PS 42 ; PD 42 ; INPUT
+        TD 43 ; 
+        TD 44 ; INPUT
+        PD 45 ; INPUT
+        PD 46 ; 
+PS 47 ; PD 47 ; INPUT
+PS 48 ; PD 48 ; 
+PS 49 ; PD 49 ; INPUT
+PS 50 ; PD 50 ; INPUT
+        TD 51 ; INPUT
+        TD 52 ; 
+        TD 53 ; 
+        PD 54 ; INPUT
+        PD 55 ; 
+PS 56 ; PD 56 ; INPUT
+        PD 57 ; 
+PS 58 ; PD 58 ; INPUT
+PS 59 ; PD 59 ; 
+PS 60 ; PD 60 ; 
+        TD 61 ; 
+PS 62 ; PD 62 ; INPUT
+PS 63 ; PD 63 ; 
+PS 64 ; PD 64 ; INPUT
+PS 65 ; PD 65 ; 
+PS 66 ; PD 66 ; INPUT
+PS 67 ; PD 67 ; 
+PS 68 ; PD 68 ; INPUT
+PS 69 ; PD 69 ; INPUT
+        TD 70 ; INPUT
+        TD 71 ; 
+PS 72 ; PD 72 ; INPUT
+PS 73 ; PD 73 ; INPUT
+PS 74 ; PD 74 ; 
+PS 75 ; PD 75 ; INPUT
+        PD 76 ; INPUT
+        PD 77 ; 
+PS 78 ; PD 78 ; INPUT
+PS 79 ; PD 79 ; 
+PS 80 ; PD 80 ; INPUT
+        PD 81 ; INPUT
+        PD 82 ; 
+PS 83 ; PD 83 ; INPUT
+PS 84 ; PD 84 ; 
+PS 85 ; PD 85 ; INPUT
+PS 86 ; PD 86 ; 
+PS 87 ; PD 87 ; 
+PS 88 ; PD 88 ; INPUT
+PS 89 ; PD 89 ; INPUT
+PS 90 ; PD 90 ; INPUT
+PS 91 ; PD 91 ; INPUT
+        TD 92 ; INPUT
+        TD 93 ; 
+PS 94 ; PD 94 ; INPUT
+PS 95 ; PD 95 ; INPUT
+PS 96 ; PD 96 ; INPUT
+TS 97 ;         INPUT
+        TD 98 ; 
+PS 99 ; PD 99 ; INPUT
+PS 100 ; PD 100 ; INPUT
+PS 101 ; PD 101 ; INPUT
+PS 102 ;         INPUT
+PS 103 ;         
+        TD 104 ; 
+PS 105 ; PD 105 ; INPUT
+        PD 106 ; INPUT
+        PD 107 ; 
+PS 108 ; PD 108 ; INPUT
+        PD 109 ; INPUT
+        PD 110 ; 
+PS 111 ; PD 111 ; INPUT
+PS 112 ; PD 112 ; INPUT
+PS 113 ; PD 113 ; INPUT
+PS 114 ; PD 114 ; INPUT
+PS 115 ; PD 115 ; INPUT
+        TD 116 ; INPUT
+        TD 117 ; 
+        TD 118 ; 
+        TD 119 ; 
+        TD 120 ; 
+PS 121 ; PD 121 ; INPUT
+PS 122 ; PD 122 ; 
+PS 123 ; PD 123 ; INPUT
+PS 124 ; PD 124 ; 
+PS 125 ; PD 125 ; INPUT
+PS 126 ; PD 126 ; 
+        PD 127 ; INPUT
+        PD 128 ; 
+PS 129 ; PD 129 ; INPUT
+PS 130 ; PD 130 ; 
+PS 131 ; PD 131 ; INPUT
+PS 132 ; PD 132 ; 
+PS 133 ; PD 133 ; INPUT
+PS 134 ; PD 134 ; INPUT
+PS 135 ; PD 135 ; INPUT
+        TD 136 ; INPUT
+        TD 137 ; 
+PS 138 ; PD 138 ; INPUT
+PS 139 ; PD 139 ; 
+PS 140 ; PD 140 ; INPUT
+PS 141 ; PD 141 ; INPUT
+        TD 142 ; INPUT
+        TD 143 ; 
+PS 144 ; PD 144 ; INPUT
+PS 145 ; PD 145 ; INPUT
+PS 146 ; PD 146 ; INPUT
+TS 147 ;         INPUT
+TS 148 ;         
+        PD 149 ; INPUT
+PS 150 ; PD 150 ; INPUT
+PS 151 ; TD 151 ; INPUT
+        TD 152 ; 
+        TD 153 ; 
+        TD 154 ; 
+PS 155 ;         
+PS 156 ;         
+PS 157 ; PD 157 ; INPUT
+PS 158 ; PD 158 ; 
+PS 159 ; PD 159 ; INPUT
+PS 160 ; PD 160 ; 
+PS 161 ; PD 161 ; INPUT
+        PD 162 ; INPUT
+PS 163 ; TD 163 ; INPUT
+        TD 164 ; 
+PS 165 ; PD 165 ; INPUT
+        PD 166 ; INPUT
+        PD 167 ; 
+PS 168 ; PD 168 ; INPUT
+PS 169 ; PD 169 ; INPUT
+PS 170 ; PD 170 ; INPUT
+PS 171 ; PD 171 ; INPUT
+PS 172 ; PD 172 ; INPUT
+PS 173 ; PD 173 ; INPUT
+        TD 174 ; INPUT
+        TD 175 ; 
+PS 176 ; PD 176 ; INPUT
+        TD 177 ; 
+TS 178 ; PD 178 ; INPUT
+PS 179 ; PD 179 ; INPUT
+PS 180 ; PD 180 ; INPUT
+TS 181 ;         INPUT
+TS 182 ;         
+PS 183 ; PD 183 ; INPUT
+        TD 184 ; INPUT
+        TD 185 ; 
+        PD 186 ; INPUT
+        PD 187 ; 
+TS 188 ;         
+        PD 195 ; INPUT
+        PD 196 ; 
+        PD 197 ; 
+TS 198 ;         INPUT
+TS 199 ;         
+        TD 203 ; INPUT
+        TD 204 ; 
+        TD 205 ; 
+TS 206 ;         
+        TD 209 ; INPUT
+        TD 210 ; 
+        PD 212 ; INPUT
+        PD 213 ; 
+        TD 214 ; 
+        TD 217 ; INPUT
+        TD 218 ; 
+        TD 219 ; 
+        PD 225 ; INPUT
+        PD 226 ; 
+        TD 229 ; 
+        TD 230 ; 
+PS 231 ; PD 231 ; INPUT

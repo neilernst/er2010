@@ -1,0 +1,92 @@
+rel: OR
+rel: AND
+rel: AND
+rel: AND
+rel: AND
+rel: OR
+rel: AND
+rel: AND
+rel: OR
+rel: AND
+rel: AND
+rel: AND
+rel: OR
+rel: OR
+rel: OR
+rel: OR
+rel: OR
+rel: OR
+rel: OR
+rel: AND
+rel: AND
+rel: OR
+rel: OR
+rel: AND
+rel: AND
+rel: OR
+rel: --
+rel: ++
+rel: +
+rel: +
+rel: -
+rel: +
+rel: -
+rel: +
+rel: +
+rel: -
+rel: -
+rel: +
+rel: +
+rel: --
+rel: ++
+rel: -
+rel: -
+rel: +
+rel: --
+rel: -
+rel: +
+rel: +
+rel: -
+rel: +
+rel: --
+rel: -
+rel: -
+rel: -
+rel: +
+rel: --
+rel: +
+rel: +
+rel: ++
+rel: --
+rel: +
+rel: -
+rel: --
+rel: +
+rel: +
+rel: -
+rel: +
+rel: ++
+
+Input goals are: 
+G3 G5 G6 G7 G8 G9 G10 G12 G16 G17 G24 G25 G30 G32 G33 G34 G35 G39 G40 G42 G43 G45 G46 G47 G48 G50 G52 G53 G54 G55 G56 G57 G58 G59 G61 G63 G64 G66 G67 G68 G72 G75 G76 G77 G78 G81 G83 G84 G85 G86 G87 G88 G90 G91 G92 G93 
+
+Building the SAT Formula... 
+- adding invariants... done
+- adding relation axioms... done
+- adding backward propagation axioms... done
+- adding users' desiderata and constraint axioms... done
+- adding conflict avoiding axioms... done
+done
+
+Calling the SAT solver Chaff:
+./asap wff > ChaffResult
+...
+done.
+
+Decoding the result... done
+
+++++++++++++++++++++++++++++++++++
++ The problem admits solutions   +
+++++++++++++++++++++++++++++++++++
+File 'Result' produced
+
